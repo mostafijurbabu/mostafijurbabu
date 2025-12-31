@@ -36,6 +36,7 @@ https://b12-a10-future-box.web.app
 
 https://micro-loan-2dacd.web.app
 
-shimmering-pasca-0ee0e4.netlify.app
+https://shimmering-pasca-0ee0e4.netlify.app/
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
