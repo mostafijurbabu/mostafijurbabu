@@ -1,10 +1,6 @@
 ## Hi there 👋 Mohammad Mostafijur Rahman
 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on web development project.
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on web development project.
